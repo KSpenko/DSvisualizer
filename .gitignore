@@ -1,0 +1,9 @@
+.vscode
+*.code-workspace
+*.d
+*.so
+*.pcm
+__pycache__
+*.pyc
+*.sh
+conda
