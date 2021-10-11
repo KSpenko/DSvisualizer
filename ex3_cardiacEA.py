@@ -5,6 +5,7 @@ MAX = 1.
 
 def cardiacEA(t, y, par=None):
     # Siroos Nazari
+    # https://www.researchgate.net/publication/274122953_Modified_Modeling_of_the_Heart_by_Applying_Nonlinear_Oscillators_and_Designing_Proper_Control_Signal
     d1, d2, d3, c1, c2, c3, r35, r13, r15, r31, r51, r53, a1, a2, a3, w = par
     # SA
     dy1 = y[1]

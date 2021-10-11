@@ -53,6 +53,7 @@ def colHeYsample(nTracks, par=None):
     return y0_ar
 
 def colHe(t, y, par=None):
+    # Wolfram https://demonstrations.wolfram.com/CollinearClassicalHeliumAtom/
     E, Z = par
     y0_2 = y[0]*y[0]
     y1_2 = y[1]*y[1]
