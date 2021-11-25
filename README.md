@@ -27,8 +27,9 @@ and also the maximal Lyapunov exponent, which is THE objective measure to determ
 
 ## Help
 
-By mindfull of the computational burden of many tracks,
+Be mindfull of the computational burden of many tracks,
 because solving NDE and visualizing the Poincare scatter plot can take quite some time.
+(Which is why I removed the example of the colinear Helium atom, you can check more about it on https://chaosbook.org/version15/chapters/helium-2p.pdf)
 
 ## Authors
 
